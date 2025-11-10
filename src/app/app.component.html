@@ -1,0 +1,65 @@
+<!-- create navbar -->
+<nav class="navbar navbar-expand-sm navbar-light bg-white">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">
+      <img src="assets/svg-4.svg" width="40px" style="box-shadow: -1px 2px 3px black;border-radius: 4px;" alt="">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class=" navbar-collapse collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link" routerLink="home" routerLinkActive="active" data-bs-toggle="collapse"
+            data-bs-target=".navbar-collapse.show">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLink="register" routerLinkActive="active" data-bs-toggle="collapse"
+            data-bs-target=".navbar-collapse.show">Register</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link " routerLink="login" routerLinkActive="active" data-bs-toggle="collapse"
+            data-bs-target=".navbar-collapse.show">Login</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link " routerLink="contactus" routerLinkActive="active" data-bs-toggle="collapse"
+            data-bs-target=".navbar-collapse.show">Contactus</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link " routerLink="products" routerLinkActive="active" data-bs-toggle="collapse"
+            data-bs-target=".navbar-collapse.show">Products</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link " routerLink="test" routerLinkActive="active" data-bs-toggle="collapse"
+            data-bs-target=".navbar-collapse.show">Test</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link " routerLink="users" routerLinkActive="active" data-bs-toggle="collapse"
+            data-bs-target=".navbar-collapse.show">Users</a>
+        </li>
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+<!-- nest products component -->
+<div class="container">
+  <router-outlet></router-outlet>
+</div>
+
+
+<!-- nest footer component -->
+
+  
+<app-footer class="mt-auto"></app-footer>
+
+
+

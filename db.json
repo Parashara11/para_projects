@@ -1,0 +1,220 @@
+{
+  "mobiles":[
+      {
+        "productTitle": "Samsung",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+        "productImage": "https://www.sathya.in/Media/Default/Thumbs/0038/0038136-vivo-s1-pro-black8gb-ram-128gb-storage-250.jpg"
+      },
+      {
+        "productTitle": "Samsung",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+        "productImage": "https://priceintanzania.com/wp-content/uploads/2019/04/Samsung-Galaxy-A70-Price-in-Tanzania.jpg"
+      },
+      {
+        "productTitle": "Honor",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+        "productImage": "https://5.imimg.com/data5/AW/IX/GLADMIN-53160395/galaxy-s-500x500.png"
+      },
+      {
+        "productTitle": "Iphone-11",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+        "productImage": "https://img.tatacliq.com/images/i7/1348Wx2000H/MP000000005562292_1348Wx2000H_202011300234051.jpeg"
+      },
+      {
+        "productTitle": "OnePlus",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+        "productImage": "https://670354.smushcdn.com/2260778/wp-content/uploads/2021/03/AMZ101-2.jpg"
+      },
+      {
+        "productTitle": "Google pixel",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+        "productImage": "https://www.91-img.com/pictures/105546-v1-google-pixel-xl-mobile-phone-large-1.jpg"
+      }
+    ],
+    "bikes":[
+      {
+        "productTitle": "Himalayan",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+        "productImage": "https://images.carandbike.com/bike-images/large/royal-enfield/himalayan/royal-enfield-himalayan.jpg?v=30"
+      },
+      {
+        "productTitle": "Yamaha R15",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+        "productImage": "https://imgd.aeplcdn.com/642x361/n/bw/models/colors/yamaha-select-model-racing-blue-1575873052608.jpg?q=80"
+      },
+      {
+        "productTitle": "KTM Duke 390",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+        "productImage": "https://media.zigcdn.com/media/model/2020/Mar/ktm-390-duke-bs6-right-side-view_360x240.jpg"
+      },
+      {
+        "productTitle": "TVS RR310",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+        "productImage": "https://images.carandbike.com/bike-images/colors/tvs/apache-rr-310/tvs-apache-rr-310-racing-red.png?v=1580430553"
+      },
+      {
+        "productTitle": "Pulsar NS 200",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+        "productImage": "https://static.toiimg.com/thumb/msid-60926182,width-1200,height-900,resizemode-4/.jpg"
+      },
+      {
+        "productTitle": "BMW 310R",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet doloriusto",
+        "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ25AyhIUEME0CpCIrTrtA9qa9ezCSKmDPPww&usqp=CAU"
+      }
+    ],
+    "televisions":[
+      {
+        "productTitle": "Samsung 4k 55inch",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+        "productImage": "https://images.samsung.com/is/image/samsung/in-uhdtv-ru7100-ua49ru7100kxxl-rperspectiveblack-152439965?$720_576_PNG$"
+      },
+      {
+        "productTitle": "Sony",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet doloriusto",
+        "productImage": "https://images-na.ssl-images-amazon.com/images/I/61qVVtdXJ1L._AC_SX679_.jpg"
+      },
+      {
+        "productTitle": "LG",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet doloriusto",
+        "productImage": "https://images-na.ssl-images-amazon.com/images/I/81CnumJVUGL._AC_SL1500_.jpg"
+      },
+      {
+        "productTitle": "MI",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet doloriusto",
+        "productImage": "https://m.media-amazon.com/images/I/710rArA2OPL._AC_SS450_.jpg"
+      },
+      {
+        "productTitle": "Samsung curved ultra hd",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet doloriusto",
+        "productImage": "https://images-na.ssl-images-amazon.com/images/I/81u1zPEUChL._AC_SL1500_.jpg"
+      },
+      {
+        "productTitle": "Philips",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet doloriusto",
+        "productImage": "https://images.philips.com/is/image/PhilipsConsumer/50PUT8509_98-IMS-en_IN?$jpglarge$&wid=1250"
+      }
+    ],
+    "users":[{
+      "id": 1,
+      "email": "mahi@gmail.com",
+      "name": "Dhoni",
+      "profilePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZNyo3yycmUKCPIaWFsuKNqv03roVT7rveSw&usqp=CAU",
+      "address": {
+          "street": "Sri nagar Colony",
+          "city": "Ranchi"
+      },
+      "profession": "Cricketer",
+      "mobileno": "9347597688"
+  },
+  {
+      "id": 2,
+      "email": "parashara@gmail.com",
+      "name": "Parashara",
+      "profilePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZNyo3yycmUKCPIaWFsuKNqv03roVT7rveSw&usqp=CAU",
+      "address": {
+          "street": "Mukunda Reddy Colony",
+          "city": "Kamareddy"
+      },
+      "profession": "Student",
+      "mobileno": "7601064554"
+  },
+  {
+      "id": 3,
+      "email": "raina@gmail.com",
+      "name": "Suresh Raina",
+      "profilePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOggg5kJSHpWD-QEctIhhhiI2DgmcG3_HCMNT72OnS4FSKYiFtm3K2Zbh4XT0Om_yXPZg&usqp=CAU",
+      "address": {
+          "street": "Sri nagar Colony",
+          "city": "Jammu Kasmir"
+      },
+      "profession": "Crickter",
+      "mobileno": "9966774488"
+  },
+  {
+      "id": 4,
+      "email": "soonu sood@gmail.com",
+      "name": "Soonu",
+      "profilePic": "https://www.forbesindia.com/media/images/2020/Aug/img_140427_sm_sonusood_708a7712.jpg",
+      "address": {
+          "street": "A1 Colony",
+          "city": "Mumbai"
+      },
+      "profession": "Helper",
+      "mobileno": "9976543488"
+  },
+  {
+      "id": 5,
+      "email": "abcd@gmail.com",
+      "name": "Ajay",
+      "profilePic": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "address": {
+          "street": "NGO Colony",
+          "city": "Nizamabad"
+      },
+      "profession": "Student",
+      "mobileno": "9347597688"
+  },
+  {
+      "id": 6,
+      "email": "sanju@gmail.com",
+      "name": "Sanjay",
+      "profilePic": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "address": {
+          "street": "New One Colony",
+          "city": "Hyderabad"
+      },
+      "profession": "Student",
+      "mobileno": "9059464359"
+  },
+  {
+    "id": 6,
+    "email": "sanju@gmail.com",
+    "name": "Sanjay",
+    "profilePic": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "address": {
+        "street": "New One Colony",
+        "city": "Hyderabad"
+    },
+    "profession": "Student",
+    "mobileno": "9059464359"
+  },
+  {
+    "id": 6,
+    "email": "sanju@gmail.com",
+    "name": "Sanjay",
+    "profilePic": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "address": {
+        "street": "New One Colony",
+        "city": "Hyderabad"
+    },
+    "profession": "Student",
+    "mobileno": "9059464359"
+  },
+  {
+    "id": 6,
+    "email": "sanju@gmail.com",
+    "name": "Sanjay",
+    "profilePic": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "address": {
+        "street": "New One Colony",
+        "city": "Hyderabad"
+    },
+    "profession": "Student",
+    "mobileno": "9059464359"
+  },
+  {
+    "id": 6,
+    "email": "sanju@gmail.com",
+    "name": "Sanjay",
+    "profilePic": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "address": {
+        "street": "New One Colony",
+        "city": "Hyderabad"
+    },
+    "profession": "Student",
+    "mobileno": "9059464359"
+  }
+]
+
+}

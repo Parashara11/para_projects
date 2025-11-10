@@ -1,0 +1,16 @@
+<div class="background">
+    <h1 class="text-center text-white">The user details are</h1>
+    <div class="row  g-0">
+        <div class="col-3 text-center text-white p-2 border" *ngFor="let item of user">
+            <img src="{{item.profilePic}}" alt="" class="img-fluid" style="width:200px;height: 300px; display:block; margin: auto;">
+            <button class="btn btn-outline-danger m-2" (click)="onSelectId(item.id)">Id:{{item.id}}</button>
+            <h5>Name: {{item.name}}</h5>
+            <h5>Email: {{item.email}}</h5>
+            <h5>Street: {{item.address.street}}</h5>
+            <h5>City: {{item.address.city}}</h5>
+            <h5>Profession: {{item.profession}}</h5>
+            <h5>Mobile No: {{item.mobileno}}</h5>
+        </div>
+    </div>
+</div>
+

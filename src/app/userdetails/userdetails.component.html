@@ -1,0 +1,14 @@
+<h1 class="text-center bg-dark text-white">The user details are</h1>
+<div class="row  g-0">
+    <div class="col text-center bg-secondary text-white p-2 border">
+        <img src="{{user?.profilePic}}" alt="" class="img-fluid" style="width:200px;height: 300px; display:block; margin: auto;">
+        <h5>Id:{{user?.id}}</h5>
+        <h5>Name: {{user?.name}}</h5>
+        <h5>Email: {{user?.email}}</h5>
+        <h5>Street: {{user?.address.street}}</h5>
+        <h5>City: {{user?.address.city}}</h5>
+        <h5>Profession: {{user?.profession}}</h5>
+        <h5>Mobile No: {{user?.mobileno}}</h5>
+    </div>
+</div>
+

@@ -1,0 +1,40 @@
+<table class="table  text-white bg-dark ">
+    <thead>
+        <tr class="text-warning">
+            <th>ID</th>
+            <th>NAME</th>
+            <th>USERNAME</th>
+            <th>EMAIL</th>
+            <th>STREET</th>
+            <th>SUITE</th>
+            <th>CITY</th>
+            <th>ZIPCODE</th>
+            <th>LATITUDE</th>
+            <th>LONGITUDE</th>
+            <th>PHONE</th>
+            <th>WEBSITE</th>
+            <th>COMPANY NAME</th>
+            <th>COMPANY CATCHPHRASE</th>
+            <th>BS</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let item of testVar">
+            <td>{{item.id}}</td>
+            <td>{{item.name}}</td>
+            <td>{{item.username}}</td>
+            <td>{{item.email}}</td>
+            <td>{{item.address.street}}</td>
+            <td>{{item.address.suite}}</td>
+            <td>{{item.address.city}}</td>
+            <td>{{item.address.zipcode}}</td>
+            <td>{{item.address.geo.lat}}</td>
+            <td>{{item.address.geo.lng}}</td>
+            <td>{{item.phone}}</td>
+            <td>{{item.website}}</td>
+            <td>{{item.company.name}}</td>
+            <td>{{item.company.catchPhrase}}</td>
+            <td>{{item.company.bs}}</td>
+        </tr>
+    </tbody>
+</table>
